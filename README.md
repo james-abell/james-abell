@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-abell
 - 👀 I’m interested in Cloud Architecture, DevOps, Infrastructure
-- 🌱 I’m currently learning Azure DevOps
+- 🌱 I’m currently mastering Hashicorp Terraform
 - 📫 How to reach me ...
 
 https://www.linkedin.com/in/james-abell/
